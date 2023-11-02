@@ -4,6 +4,7 @@
 
 - Min 30 instalación
 - Min 56 Datos compuestos
+- Min 1:27 Condicionales
 
 
 
@@ -115,6 +116,17 @@ print(diccionario['altura'])
 
 
 *`Operadores aritmeticos`*
+|Operador|Comparación
+|-|-|
+|==|es igual que|
+|!=|es distinto que|
+|<|es menor que|
+|<=|es menor o igual que|
+|>|es mayor|
+|>=|es mayor o igual que|
+
+
+*`Condicionales`*
 |Operador|Comparación
 |-|-|
 |==|es igual que|
