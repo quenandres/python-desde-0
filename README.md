@@ -100,3 +100,15 @@ diccionario = {
 
 print(diccionario['altura'])
 ```
+
+*`Operadores aritmeticos`*
+
+|Operador|Descripcion|Ejemplo|
+|-|-|-|
+|+|Suma|a + b = 15|
+|-|Resta|b - a = 5|
+|*|Multiplicación|a * b = 50|
+|/|Division|b / a = 2|
+|%|Modulo|b % a = 0|
+|**|Exponente|b ** a = 10000|
+|//|Disivion baja(Devuelve el entero de la division)|b // a = 2|
