@@ -112,3 +112,14 @@ print(diccionario['altura'])
 |%|Modulo|b % a = 0|
 |**|Exponente|b ** a = 10000|
 |//|Disivion baja(Devuelve el entero de la division)|b // a = 2|
+
+
+*`Operadores aritmeticos`*
+|Operador|Comparación
+|-|-|
+|==|es igual que|
+|!=|es distinto que|
+|<|es menor que|
+|<=|es menor o igual que|
+|>|es mayor|
+|>=|es mayor o igual que|
