@@ -18,7 +18,7 @@ _String_
 '''string''' # String multilineas
 ```
 
-*`Concatenación`*
+*`Datos simples`*
 
 *Strings*
 ```py
@@ -56,4 +56,47 @@ nombreCompletoDeAlgo = 'Hola test'
 *snake_case*
 ```py
 nombre_completo_de_algo = 'Hola test'
+```
+
+*`Datos compuestos`*
+
+*lista*
+```py
+lista = ["Jhonatan", "Mejia", True, 1.78]
+print(lista[1])
+# Mejia
+```
+
+*tupla*
+
+La diferencia de la tupla es que no se puede modificar
+```py
+lista = ("Jhonatan", "Mejia", True, 1.78)
+print(lista[1])
+# Mejia
+```
+
+*set*
+
+- Funciona como las listas, pero no se pueden modificar elementos, 
+- no tienen un orden especifico por lo que no se puede acceder por el indice, 
+- no alamcena datos duplicados, 
+- no almacena datos por indice
+```py
+lista = ("Jhonatan", "Mejia", True, 1.78)
+print(lista[1])
+# Mejia
+```
+
+*diccionario*
+- Le asignamos el valor de la clave
+- La estructura es _key_ : _value_
+```py
+diccionario = {
+    'nombre': 'Jhonatan',
+    'apellido': 'Mejia',
+    'altura': '1.78'
+}
+
+print(diccionario['altura'])
 ```
